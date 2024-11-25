@@ -1985,6 +1985,11 @@ contributors = [
     fullname: "Isnani",
     username: "https://github.com/Isnani25",
   },
+  {
+    id: 412,
+    fullname: "Gulshan Kumar Jakhon",
+    username: "https://github.com/gulshanjakhon",
+  },
 
   {
     id: 412,
