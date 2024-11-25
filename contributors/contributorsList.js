@@ -186,6 +186,12 @@ contributors = [
     username: "https://github.com/Alok-873",
   },
   {
+    id: 400,
+    fullname: "Syed Mohammad Osama",
+    username: "https://github.com/syed-m-osama",
+
+  },
+  {
     id: 38,
     fullname: "Quentin Troemner",
     username: "https://github.com/qdtroemner",
