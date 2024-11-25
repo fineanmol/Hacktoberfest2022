@@ -1984,7 +1984,11 @@ contributors = [
     id: 411,
     fullname: "Isnani",
     username: "https://github.com/Isnani25",
-  },
+  },{
+    id: 412,
+        fullname: "Foo-Maker",
+        username: "https://github.com/Foo-Maker",
+      }
 
   {
     id: 412,
